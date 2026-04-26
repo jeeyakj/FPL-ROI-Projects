@@ -1,0 +1,4 @@
+player_id,player_name,position,team,opponent_team,was_home,price,minutes,goals,assists,xG,xA,shots,key_passes,ict_index,bps,fixture_difficulty,gw,season,total_points
+1,Player A,FWD,Team1,Team2,1,10.0,90,1,0,0.8,0.2,3,1,10.5,20,3,1,2025,6
+2,Player B,MID,Team3,Team4,0,7.5,85,0,1,0.3,0.7,2,2,8.1,15,2,1,2025,5
+3,Player C,DEF,Team5,Team6,1,5.0,90,0,0,0.1,0.1,1,0,5.0,10,4,1,2025,2
